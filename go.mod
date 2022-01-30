@@ -10,6 +10,7 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/OneOfOne/xxhash v1.2.2
 	github.com/Shopify/sarama v1.23.1
+	github.com/apple/foundationdb/bindings/go v0.0.0-20200115011401-16c32c3657c6
 	github.com/aws/aws-sdk-go v1.35.3
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/buraksezer/consistent v0.0.0-20191006190839-693edf70fd72
